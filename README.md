@@ -32,7 +32,7 @@ This guide walks you through upgrading PyTorch to 2.7.0+cu128 and resolving all 
 
 ### Quick Start
 
-📖 **[Read the full installation guide](./INSTALL_GUIDE.md)**
+📖 **[Read the full installation guide](./INSTALL_GUIDE_EN.md)**
 
 ### Requirements
 
